@@ -7,9 +7,26 @@
 TES-DEV Browser, yazılım geliştiriciler için özel olarak tasarlanmış bir internet tarayıcısıdır. Bu proje, açık kaynaklı bir girişimdir ve C# programlama dili kullanılarak geliştirilmektedir. Chromium altyapısını temel alarak, geliştiricilere zengin özellikler ve esneklik sunmayı hedeflemektedir.
 
 # Özellikler
-*Geliştiriciler için özel tasarlanmış kullanıcı arayüzü,
-*Hızlı ve güvenilir bir tarayıcı deneyimi,
-*Chromium altyapısı sayesinde modern web standartlarına uyumlu,
-*Güçlü web geliştirme araçları ve eklenti desteği,
-*İnternet tarayıcısının çeşitli bileşenlerine erişim (ör. sayfa içi HTML ve CSS düzenleme),
+*Geliştiriciler için özel tasarlanmış kullanıcı arayüzü
+
+*Hızlı ve güvenilir bir tarayıcı deneyimi
+
+*Chromium altyapısı sayesinde modern web standartlarına uyumlu
+
+*Güçlü web geliştirme araçları ve eklenti desteği
+
+*İnternet tarayıcısının çeşitli bileşenlerine erişim (ör. sayfa içi HTML ve CSS düzenleme)
+
 *Geliştirici dostu kısayol tuşları ve özelleştirilebilir araç çubukları
+
+# Desteklenen İşletim Sistemleri
+
+TES-DEV Browser, Windows işletim sistemine yönelik olarak geliştirilmektedir. Aşağıdaki işletim sistemi sürümleriyle uyumlu olarak test edilmiştir:
+
+*Windows 10
+
+*Windows 11
+
+# Lisans
+
+TES-DEV Browser projesi, GNU Genel Kamu Lisansı (GPL) altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
