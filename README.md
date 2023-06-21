@@ -4,29 +4,35 @@
 
 # TES-DEV Browser
 
-TES-DEV Browser, yazılım geliştiriciler için özel olarak tasarlanmış bir internet tarayıcısıdır. Bu proje, açık kaynaklı bir girişimdir ve C# programlama dili kullanılarak geliştirilmektedir. Chromium altyapısını temel alarak, geliştiricilere zengin özellikler ve esneklik sunmayı hedeflemektedir.
+TES-DEV Browser is a custom internet browser designed for software developers. This project is an open-source initiative developed using the C# programming language. It is built on the Chromium framework with the aim of providing developers with rich features and flexibility.
 
-# Özellikler
-*Geliştiriciler için özel tasarlanmış kullanıcı arayüzü
+# Features
+*Custom-designed user interface tailored for developers
 
-*Hızlı ve güvenilir bir tarayıcı deneyimi
+*Fast and reliable browsing experience
 
-*Chromium altyapısı sayesinde modern web standartlarına uyumlu
+*Full compatibility with modern web standards through the Chromium framework
 
-*Güçlü web geliştirme araçları ve eklenti desteği
+*Powerful web development tools and support for extensions
 
-*İnternet tarayıcısının çeşitli bileşenlerine erişim (ör. sayfa içi HTML ve CSS düzenleme)
+*Access to various components of the browser (e.g., in-page HTML and CSS editing)
 
-*Geliştirici dostu kısayol tuşları ve özelleştirilebilir araç çubukları
+*Developer-friendly shortcuts and customizable toolbars
 
-# Desteklenen İşletim Sistemleri
 
-TES-DEV Browser, Windows işletim sistemine yönelik olarak geliştirilmektedir. Aşağıdaki işletim sistemi sürümleriyle uyumlu olarak test edilmiştir:
+# Supported Operating Systems
+
+TES-DEV Browser is developed specifically for the Windows operating system. It has been tested and compatible with the following OS versions:
 
 *Windows 10
 
 *Windows 11
 
-# Lisans
+# License
 
-TES-DEV Browser projesi, GNU Genel Kamu Lisansı (GPL) altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
+TES-DEV Browser is licensed under the GNU General Public License (GPL). For more information, refer to the LICENSE file.
+
+# Developer
+
+ig:@tkzoguzhan
+
